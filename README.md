@@ -217,6 +217,6 @@ B.Tech Computer Science Engineering
 
 Graphic Era University
 
-LinkedIn: https://linkedin.com/in/yourprofile
+LinkedIn: https://linkedin.com/in/dhruv-rawat23
 
 ---
