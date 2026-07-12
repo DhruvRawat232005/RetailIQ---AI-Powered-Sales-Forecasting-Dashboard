@@ -8,7 +8,7 @@ Built using **Python**, **Streamlit**, **Scikit-learn**, **SARIMA**, **XGBoost**
 
 ## 🚀 Live Demo
 
-🔗 [Coming Soon]
+🔗 https://retailiq---ai-dashboard-57cmwgkcl4sa.streamlit.app/
 
 ---
 
