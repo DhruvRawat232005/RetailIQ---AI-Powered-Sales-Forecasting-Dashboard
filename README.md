@@ -1,4 +1,4 @@
-# 📊 RetailIQ – AI Powered Sales Forecasting Dashboard
+# RetailIQ – AI Powered Sales Forecasting Dashboard
 
 RetailIQ is an interactive Business Intelligence dashboard that leverages Machine Learning and Time Series Forecasting to analyze retail sales, forecast future demand, detect sales anomalies, and perform product segmentation.
 
@@ -6,7 +6,7 @@ Built using **Python**, **Streamlit**, **Scikit-learn**, **SARIMA**, **XGBoost**
 
 ---
 
-## 🚀 Live Demo
+## Live Demo
 
 🔗 https://retailiq---ai-dashboard-57cmwgkcl4sa.streamlit.app/
 
@@ -14,23 +14,23 @@ Built using **Python**, **Streamlit**, **Scikit-learn**, **SARIMA**, **XGBoost**
 
 ### Dashboard Overview
 
-[Coming Soon]
+<img width="956" height="437" alt="Screenshot 2026-07-12 163824" src="https://github.com/user-attachments/assets/5e43fccf-c367-4cfe-a87d-441616441c5b" />
 
 ### Sales Forecasting
 
-[Coming Soon]
+<img width="953" height="437" alt="Screenshot 2026-07-12 163900" src="https://github.com/user-attachments/assets/8a15f12b-e2a4-460d-b595-dc97098820cc" />
 
 ### Product Segmentation
 
-[Coming Soon]
+<img width="956" height="434" alt="Screenshot 2026-07-12 163925" src="https://github.com/user-attachments/assets/dee0ecf5-893c-470a-9f70-e859599273ba" />
 
 ### Sales Anomaly Detection
 
-[Coming Soon]
+<img width="955" height="436" alt="Screenshot 2026-07-12 163947" src="https://github.com/user-attachments/assets/c51af092-4b5d-4a50-a154-982b8e9d349e" />
 
 ---
 
-# ✨ Features
+# Features
 
 ### Sales Analytics
 - Interactive KPI Dashboard
